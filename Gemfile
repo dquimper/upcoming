@@ -19,6 +19,8 @@ group :development, :test do
   gem 'steak'
   gem 'launchy'
   gem 'database_cleaner'
+
+  gem 'thin'
 end
 
 # vim: ft=ruby
